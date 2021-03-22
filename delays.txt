@@ -1,0 +1,9 @@
+run on local host:
+no encryption -> delay = 0.0055s
+symmetric encryption -> delay = 0.048s
+asymmetric encryption -> delay = 0.048s
+
+run in two computers on a network:
+no encryption -> delay = 1.04s
+symmetric encryption -> delay = 1.08s
+asymmetric encryption -> delay = 1.08s
